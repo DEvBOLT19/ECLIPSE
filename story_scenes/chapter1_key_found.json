@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "BOLT discovers a glowing cursed key buried in the soil.", "delay": 1700},
+    {"speaker": "BOLT", "text": "If this key survived... maybe everyone else can too.", "delay": 1800},
+    {"speaker": "Narrator", "text": "A path to the city now feels inevitable.", "delay": 1700}
+  ]
+}

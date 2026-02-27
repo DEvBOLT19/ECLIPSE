@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "BOLT gathers smoke bombs, potions, and a fractured Temporal Shard.", "delay": 1800},
+    {"speaker": "BOLT", "text": "This shard reacts to the castle walls... time itself is unstable.", "delay": 1900},
+    {"speaker": "Narrator", "text": "A new power awakens. Press T to step into the past.", "delay": 1700}
+  ]
+}

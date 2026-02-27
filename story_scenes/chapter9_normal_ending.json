@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "The corrupted queen falls and the curse collapses.", "delay": 1800},
+    {"speaker": "Narrator", "text": "Villagers return, and peace slowly spreads across the kingdom.", "delay": 1800},
+    {"speaker": "Narrator", "text": "A hidden truth still sleeps in time...", "delay": 1700}
+  ]
+}
