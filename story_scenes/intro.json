@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "BOLT wakes up to a quiet village...", "delay": 2000},
+    {"speaker": "BOLT", "text": "Something’s wrong… Everyone is gone!", "delay": 2000},
+    {"speaker": "Narrator", "text": "He grabs his father’s sword and sets off towards the castle.", "delay": 2500}
+  ]
+}
