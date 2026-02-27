@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Old Man", "text": "You are not meant to be alive...", "delay": 2000},
+    {"speaker": "Old Man", "text": "Meet me again after 2 days at this place.", "delay": 2000},
+    {"speaker": "BOLT", "text": "Who… who are you?", "delay": 2000}
+  ]
+}
