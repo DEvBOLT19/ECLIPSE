@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "In the past, BOLT witnesses the origin of the kingdom's curse.", "delay": 1900},
+    {"speaker": "Narrator", "text": "The king's daughter bound BOLT's father to siphon village life-force.", "delay": 1900},
+    {"speaker": "BOLT", "text": "I will break this curse without losing him.", "delay": 1700}
+  ]
+}

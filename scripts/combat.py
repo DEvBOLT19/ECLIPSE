@@ -20,12 +20,12 @@ class Combat:
 
     def update(self):
         # Check collision and attack
-        for enemy in self.enemies:
+        for enemy in self.enemies[:]:
             if self.player.rect.colliderect(enemy.rect):
                 killed = self.weapon.attack(enemy)
                 if killed:
                     self.enemies.remove(enemy)
 
     def draw_enemies(self, screen):
-        for enemy in self.enemies:
+        for enemy in self.enemies[:]:
             enemy.draw(screen)

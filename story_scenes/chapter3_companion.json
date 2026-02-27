@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "At the riverbank, BOLT reunites with the old swordsman.", "delay": 1800},
+    {"speaker": "Old Man", "text": "Take your father's blade. You will need a companion too.", "delay": 1800},
+    {"speaker": "Kiro", "text": "I will fight with you until the village is saved.", "delay": 1700}
+  ]
+}

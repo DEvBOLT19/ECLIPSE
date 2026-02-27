@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "The city is crowded, loud, and guarded by suspicious soldiers.", "delay": 1700},
+    {"speaker": "Guard", "text": "No one enters the castle without royal orders.", "delay": 1600},
+    {"speaker": "BOLT", "text": "Then I'll find another way in.", "delay": 1600}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Narrator", "text": "With every relic collected, BOLT unlocks the hidden timeline.", "delay": 1900},
+    {"speaker": "Narrator", "text": "The swordsman's oath, the shard's origin, and the kingdom's secret are revealed.", "delay": 1900},
+    {"speaker": "Narrator", "text": "TRUE ENDING: The village, family, and history are fully restored.", "delay": 1900}
+  ]
+}

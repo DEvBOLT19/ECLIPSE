@@ -1,0 +1,7 @@
+{
+  "dialogues": [
+    {"speaker": "Father", "text": "BOLT... you freed me from the darkness.", "delay": 1700},
+    {"speaker": "BOLT", "text": "Rest now. I will finish this.", "delay": 1600},
+    {"speaker": "Narrator", "text": "The throne room trembles as the final villain descends.", "delay": 1800}
+  ]
+}
