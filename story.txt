@@ -1,1 +1,170 @@
+ECLIPSE – Full Story
+Prologue: The Peaceful Village
 
+BOLT, a calm and observant boy, lives in a quiet village under the rule of a distant kingdom. He spends his days training with his father’s sword at the riverbank, dreaming of becoming a skilled swordsman.
+
+One morning, as BOLT returns from his practice, he finds the village completely empty. Homes are abandoned, livestock roam freely, and there is no sign of his family or friends. Confused and alarmed, BOLT begins to search for clues.
+
+Chapter 1: The First Mission – Riverbank to Village
+
+BOLT explores the empty village and discovers footprints leading toward the main city.
+
+Along the way, he finds a mysterious relic: a faintly glowing key.
+
+This event triggers the first cutscene: BOLT realizes he must travel to the kingdom’s castle to uncover the truth.
+
+Gameplay beat: Explore village → find key → receive tutorial items → cutscene triggers first story dialogue.
+
+Chapter 2: The City and the First Ally
+
+BOLT reaches the kingdom’s main city, now bustling and mega-sized. When he tries to enter the castle, guards deny him entry.
+
+While searching for another way inside:
+
+He meets an old man, a forgotten swordsman, who asks for help in exchange for knowledge.
+
+BOLT reluctantly gives him a mumbled promise (the sword).
+
+The old man provides:
+
+A blueprint of a hidden passage
+
+Guard disguise
+
+Warning: “Meet me again in two days at the riverbank.”
+
+Gameplay beat: City exploration → minor missions → first ally interaction → disguise mechanic → map item acquisition.
+
+Chapter 3: The Orphan Companion
+
+During city exploration, BOLT:
+
+Encounters a calm orphan boy, alone and resourceful
+
+Completes a side mission together (rescue or retrieval)
+
+BOLT invites him to stay and becomes his first companion
+
+After two days, they return to the riverbank to meet the swordsman:
+
+The swordsman is surprised to see the boy
+
+BOLT introduces him as his friend
+
+The swordsman gives BOLT:
+
+Father’s Sword (restored)
+
+A map to the castle
+
+A special item for a later event
+
+Gameplay beat: Companion system → cooperative missions → cutscene story expansion → item acquisition.
+
+Chapter 4: The Castle and Hidden Truth
+
+BOLT and his companion attempt to enter the castle:
+
+They learn that the king has been killed
+
+The king’s daughter now rules under the title of “king”
+
+BOLT discovers that his father has been forced to absorb the life energy of his village to power a curse designed to spawn monsters
+
+BOLT and the old swordsman overhear the dark plan but must escape before being caught.
+
+BOLT honors his promise and gives the swordsman the sword
+
+The swordsman gives him a special key, which will be crucial later
+
+Gameplay beat: Castle infiltration → stealth/escape → story revelation → cursed father setup.
+
+Chapter 5: Power-Ups, Items, and Exploration
+
+Before confronting the castle’s inner mysteries, BOLT:
+
+Explores the city and outskirts for missions
+
+Collects items and power-ups:
+
+Smoke bombs, potions, sword upgrades
+
+Temporal Shard (enables time travel)
+
+Gains combat experience and leveling-up of sword skills
+
+Encounters mini-bosses: cursed creatures spawned from the absorbed village energy
+
+Gameplay beat: Open-world exploration → collectables → mini-boss fights → item upgrades → experience gain
+
+Chapter 6: Time Travel & Revelation
+
+BOLT learns to travel through time using the Temporal Shard:
+
+Travels to past versions of village, city, and castle
+
+Discovers hidden lore:
+
+The forgotten swordsman originally transferred the sword to BOLT’s father
+
+The king’s daughter used BOLT’s father to create the curse
+
+Certain events can be changed by revisiting past areas
+
+Gameplay beat: Time travel mechanic → puzzle-solving → story revelations → optional side quests in past timelines
+
+Chapter 7: Father’s Curse Confrontation
+
+BOLT finally confronts his father:
+
+The father is corrupted by the curse, fully empowered
+
+A boss fight ensues
+
+Story twist: BOLT does not kill his father
+
+Instead, he breaks the curse using his accumulated skills, items, and Temporal Shard energy
+
+Gameplay beat: Major boss fight → curse-breaking mechanic → emotional climax
+
+Chapter 8: The Final Villain
+
+BOLT proceeds to the final confrontation with the king’s daughter, now fully corrupted:
+
+She fights using dark magic fueled by the villagers’ absorbed energy
+
+BOLT uses:
+
+Father’s Blade (fully upgraded)
+
+Companions’ help
+
+Special keys / items obtained along the journey
+
+Final battle is multi-phase, incorporating:
+
+Sword combat
+
+Environmental hazards
+
+Companion-assisted attacks
+
+Gameplay beat: Multi-phase final boss → strategic use of items and companions → cinematic battle sequences
+
+Chapter 9: Ending
+
+After defeating the final villain:
+
+Villagers are restored
+
+BOLT’s father is saved
+
+Kingdom returns to peace
+
+Optional true ending:
+
+Requires collecting all items, completing side missions, and unlocking the hidden path through time
+
+Reveals full story of the swordsman, Temporal Shard, and the kingdom’s secret history
+
+Gameplay beat: Story conclusion cutscene → rewards → post-game exploration
