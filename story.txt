@@ -167,4 +167,34 @@ Requires collecting all items, completing side missions, and unlocking the hidde
 
 Reveals full story of the swordsman, Temporal Shard, and the kingdom’s secret history
 
+
+#structure
+
 Gameplay beat: Story conclusion cutscene → rewards → post-game exploration
+
+Items / Power-Ups
+
+Father’s Blade → Reforged Blade
+
+Temporal Shard → Time travel
+
+Cursed Key → Unlock special events
+
+Smoke Bomb → Evade enemies
+
+Potions → Health restoration
+
+
+#item 
+
+Items / Power-Ups
+
+Father’s Blade → Reforged Blade
+
+Temporal Shard → Time travel
+
+Cursed Key → Unlock special events
+
+Smoke Bomb → Evade enemies
+
+Potions → Health restoration
